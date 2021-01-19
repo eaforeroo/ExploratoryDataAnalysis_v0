@@ -1,6 +1,4 @@
-Exploratory Data Analysis for Machine Learning
-
-Edwar Forero-Ortiz
+# Exploratory Data Analysis for Machine Learning
 
 README
 
